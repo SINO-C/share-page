@@ -6,7 +6,6 @@ menu:
   Home: /
   Archives: /archives/
   About: /about/
-  Links: /links/
 
 # Your Feed Location
 #rss: /atom.xml
@@ -60,7 +59,7 @@ feed:
 nav: left
 
 # Info
-archive_footer_content: 
+archive_footer_content: Public Domain
 post_footer_content: Public Domain
 
 # Gitment
