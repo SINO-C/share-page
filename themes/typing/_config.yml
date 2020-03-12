@@ -39,7 +39,7 @@ icons: false
 # NOTICE) Use the fontawesome icon names without the fa- prefix (http://fontawesome.io/cheatsheet/)
 links:
   Archives: /archives/
-  Links: /links/
+  Abouts: /about/
   Github: https://github.com/sinofine
   RSS: /atom.xml
 
@@ -60,8 +60,8 @@ feed:
 nav: left
 
 # Info
-archive_footer_content: DO YOU HEAR THE PEOPLE SING?
-post_footer_content: 当我沉默的时候，我觉得充实；我将开口，同时感到空虚。
+archive_footer_content: 
+post_footer_content: Public Domain
 
 # Gitment
 gitment:

@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'Sinofine Lotus'
-subtitle: 'みんな社会不適合。'
-description: '杂谈、随意的抑或是精心准备的文章。'
+title: '短篇小说与收藏夹'
+subtitle: '全体公有领域。'
+description: '我所见的文章们。'
 keywords:
-author: 'Sinofine Lotus ( deClare ver. )'
+author: 'Sinofine Lotus ( Collector ver. )'
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://sinofine.me
+url: https://share.sinofine.me
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,7 +63,7 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: 杂谈
+default_category: 短篇小说
 category_map:
 tag_map:
 
