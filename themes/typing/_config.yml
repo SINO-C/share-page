@@ -59,8 +59,8 @@ feed:
 nav: left
 
 # Info
-archive_footer_content: Public Domain
-post_footer_content: Public Domain
+archive_footer_content: With contents from WEB.
+post_footer_content: With contents from WEB.
 
 # Gitment
 gitment:
